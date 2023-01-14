@@ -1,1 +1,1 @@
-# digit-recognizer
+# digit-and-alphabet-recognizer
